@@ -1,12 +1,12 @@
 Hi 👋 My name is Quoc Tuan
 ==========================
 
-Student final year of Academi PTIT
+Inter in Company FPT 
 
 * 🌍  I'm based in Ho Chi Minh city
 * ✉️  You can contact me at [dbqtuan8826@gmail.com](mailto:dbqtuan8826@gmail.com)
 * 🧠  I'm learning Code C
-* 🤝  I'm open to collaborating on Embeded
+* 🤝  I'm open to collaborating on Embedded Programming
 * ⚡  i'm enjoy reading book and some sport
 
 ### Skills
