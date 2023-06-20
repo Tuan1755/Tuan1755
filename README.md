@@ -1,5 +1,6 @@
 Hi 👋 My name is Quoc Tuan
-<img src="D:\download/avatar.jpg" class= "imageAboutPage" alt="">
+<img src="D:\download/avatar.jpg" class= "imageAboutPage" alt="![avatar](https://github.com/Tuan1755/Tuan1755/assets/136290761/231d80ac-5fbf-4b6f-af53-87ab4c474382)
+">
 ==========================
 
 Inter in Company FPT 
