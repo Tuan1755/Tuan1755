@@ -1,4 +1,5 @@
 Hi 👋 My name is Quoc Tuan
+<img src="D:\download/avatar.jpg" class= "imageAboutPage" alt="">
 ==========================
 
 Inter in Company FPT 
