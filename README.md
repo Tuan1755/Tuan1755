@@ -1,6 +1,6 @@
 Hi 👋 My name is Quoc Tuan
 <img src="C:\Users\TUAN\Documents\Zalo Received Files/ava.jpg" class= "imageAboutPage" alt="" width="250" />
-![![image](https://github.com/Tuan1755/Tuan1755/assets/136290761/3c0f119b-b0c7-4bbb-a847-f999ff0f518a)
+
 
 
 ==========================
