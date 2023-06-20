@@ -1,7 +1,6 @@
 Hi 👋 My name is Quoc Tuan
-<img src="![![image](https://github.com/Tuan1755/Tuan1755/assets/136290761/3c0f119b-b0c7-4bbb-a847-f999ff0f518a)" class= "imageAboutPage" alt="" width="250" />
 
-
+![ava1](https://github.com/Tuan1755/Tuan1755/assets/136290761/72888c57-01a1-490f-bf80-94051b745d80)
 
 ==========================
 
