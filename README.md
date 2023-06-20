@@ -6,11 +6,11 @@ Hi 👋 My name is Quoc Tuan
 
 Inter in Company FPT 
 
-* 🌍  I'm based in Ho Chi Minh city
-* ✉️  You can contact me at [dbqtuan8826@gmail.com](mailto:dbqtuan8826@gmail.com)
-* 🧠  I'm learning Code C
-* 🤝  I'm open to collaborating on Embedded Programming
-* ⚡  i'm enjoy reading book and some sport
+* 🌍  Tôi sống ở HCM và là sinh viên năm cuối Học viện PTIT
+* ✉️  Liên lạc tôi qua Mail/zalo [dbqtuan8826@gmail.com](mailto:dbqtuan8826@gmail.com)/0338818053
+* 🧠  Đang học Code C 
+* 🤝  Muốn làm việc về Embedded Programming
+* ⚡  Sở thích là đọc sách và thể thao
 
 ### Skills
 
