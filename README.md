@@ -1,7 +1,5 @@
 Hi 👋 My name is Quoc Tuan
 
-![ava1](https://github.com/Tuan1755/Tuan1755/assets/136290761/72888c57-01a1-490f-bf80-94051b745d80)
-
 ==========================
 
 Inter in Company FPT 
